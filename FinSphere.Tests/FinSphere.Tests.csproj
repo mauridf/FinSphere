@@ -25,4 +25,9 @@
     <ProjectReference Include="..\FinSphere.Common\FinSphere.Common.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="IntegrationTests\" />
+    <Folder Include="UnitTests\" />
+  </ItemGroup>
+
 </Project>
